@@ -1,6 +1,6 @@
 # Real-Time Vietnam Traffic Sign Detection
 
-[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/minh-cong/traffic_sign_detection))
+[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/minh-cong/traffic_sign_detection)
 
 YOLOv8 model trained on 2280 Vietnamese traffic signs with ONNX deployment.
 
